@@ -3,7 +3,7 @@
 <img src="https://www.elespectador.com/resizer/x-LOijJxa2T92O3BcDwmpoH_gSU=/arc-anglerfish-arc2-prod-elespectador/public/S2GZ3T3KBBANFN6SHLMOXFYHLA.jpg" width="520" height="374"/>
 
 # Manjares Navideños
-## pure de papa 
+## Pure de papa 
   
 </div>
   
@@ -22,4 +22,5 @@
 ### Video 
 -https://www.youtube.com/watch?v=SdixTKBXKqA
   
-### referencias: https://www.recetasgratis.net/receta-de-pure-de-papas-al-horno-14378.html
+### referencias:
+https://www.recetasgratis.net/receta-de-pure-de-papas-al-horno-14378.html
